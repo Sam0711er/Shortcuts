@@ -1,7 +1,7 @@
 # Shortcuts
 Little Playground for some Shortcuts I made
 
-#### [🚈 VVS Abfahrten](https://github.com/Sam0711er/Shortcuts/blob/master/VVS%20Abfahrten.shortcut) [Direct Install(shortcuts://import-workflow?url=https://raw.githubusercontent.com/Sam0711er/Shortcuts/master/VVS%20Abfahrten.shortcut)
+#### [🚈 VVS Abfahrten](shortcuts://import-workflow?url=https://raw.githubusercontent.com/Sam0711er/Shortcuts/master/VVS%20Abfahrten.shortcut)
 Get current departure times for the nearest subway station within the Stuttgart Metropolitan Area
 
 
