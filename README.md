@@ -5,6 +5,7 @@ Little Playground for some Shortcuts I made
 
 Direct Install: 
 `shortcuts://import-workflow?url=https://raw.githubusercontent.com/Sam0711er/Shortcuts/master/VVS%20Abfahrten.shortcut`
+
 Get current departure times for the nearest subway station within the Stuttgart Metropolitan Area
 
 
